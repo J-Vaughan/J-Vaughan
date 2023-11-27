@@ -1,4 +1,10 @@
-### Hi there 👋
+### Unicode and \LaTeX Enthusiast
+
+I'm currently learning Space Systems Design (Aero B. Eng) at Carleton University in Ottawa.
+
+I'm working on a new scientific language, with native support for reference frames/bases, units, and support for glyphs.
+
+_Ad astra per aspera_
 
 <!--
 **J-Vaughan/J-Vaughan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
